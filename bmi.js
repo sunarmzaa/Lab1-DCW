@@ -7,4 +7,4 @@ const height2 = height ** 2
 const bmi =  weight / height2
 
 
-console.log(bmi)
+console.log("BMI is "+bmi)
